@@ -12,3 +12,6 @@ Expected OUTPUT:
   This is _ table
   Which number do you want to multiply
   result=
+  
+  
+  upload your python file
